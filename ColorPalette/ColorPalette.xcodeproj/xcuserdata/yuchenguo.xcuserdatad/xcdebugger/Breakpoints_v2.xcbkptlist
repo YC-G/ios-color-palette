@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0CC5B33D-B65A-447D-B788-629C2B32AEAE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3D8E52D-7E42-4E7B-9F93-1ECE2FE8B252"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorPaletteTests/ColorTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EAF1F5F-F774-4F04-91CD-12B7F25E313C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorPaletteTests/ColorTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ColorTest"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7EAF1F5F-F774-4F04-91CD-12B7F25E313C - 9d20dcc7a36e0d53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorPaletteTests.ColorTest.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; ColorPaletteTests.ColorTest"
+                  moduleName = "ColorPaletteTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuchenguo/Desktop/Mobile%20App%20Development/ios-project-YC-G/ColorPalette/ColorPaletteTests/ColorTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "7EAF1F5F-F774-4F04-91CD-12B7F25E313C - fba401b5736b09fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorPaletteTests.ColorTest.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; ColorPaletteTests.ColorTest"
+                  moduleName = "ColorPaletteTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuchenguo/Desktop/Mobile%20App%20Development/ios-project-YC-G/ColorPalette/ColorPaletteTests/ColorTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "7EAF1F5F-F774-4F04-91CD-12B7F25E313C - 65aec1e7f1551114"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorPaletteTests.ColorTest.__allocating_init(selector: ObjectiveC.Selector) -&gt; ColorPaletteTests.ColorTest"
+                  moduleName = "ColorPaletteTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuchenguo/Desktop/Mobile%20App%20Development/ios-project-YC-G/ColorPalette/ColorPaletteTests/ColorTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "7EAF1F5F-F774-4F04-91CD-12B7F25E313C - f36f016d14bc9a47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorPaletteTests.ColorTest.init(selector: ObjectiveC.Selector) -&gt; ColorPaletteTests.ColorTest"
+                  moduleName = "ColorPaletteTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuchenguo/Desktop/Mobile%20App%20Development/ios-project-YC-G/ColorPalette/ColorPaletteTests/ColorTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "7EAF1F5F-F774-4F04-91CD-12B7F25E313C - 9e28ec587b187f9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorPaletteTests.ColorTest.__allocating_init() -&gt; ColorPaletteTests.ColorTest"
+                  moduleName = "ColorPaletteTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuchenguo/Desktop/Mobile%20App%20Development/ios-project-YC-G/ColorPalette/ColorPaletteTests/ColorTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "7EAF1F5F-F774-4F04-91CD-12B7F25E313C - f604a7f1248cf096"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorPaletteTests.ColorTest.init() -&gt; ColorPaletteTests.ColorTest"
+                  moduleName = "ColorPaletteTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuchenguo/Desktop/Mobile%20App%20Development/ios-project-YC-G/ColorPalette/ColorPaletteTests/ColorTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "7EAF1F5F-F774-4F04-91CD-12B7F25E313C - 6dbccad0c1d11dd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorPaletteTests.ColorTest.__deallocating_deinit"
+                  moduleName = "ColorPaletteTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuchenguo/Desktop/Mobile%20App%20Development/ios-project-YC-G/ColorPalette/ColorPaletteTests/ColorTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8472874F-6947-4C3D-8B88-CC13DB8F6BC7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorPaletteTests/ColorServiceTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "setUpWithError()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36AD2B05-8465-437F-948C-51B600B63072"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorPaletteUITests/ColorPaletteUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "ColorPaletteUITests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5333EB0A-66D8-4A61-9E81-70CC6CEC140B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorPalette/Controllers/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

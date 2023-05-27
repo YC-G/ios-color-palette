@@ -1,0 +1,10 @@
+Resolved Bugs:
+1. DetailViewController shows the same page for every cell -> Didn't use DispatchQueue to catch information sent from segue in DetailViewController
+2. UI components added programmatically overlap with components added on storyboards -> Wrap textview added programmatically in a header 
+3. Color data is refreshed everytime return from other pages -> initialize color data in ViewDidLoad() instead of ViewWillAppear()
+4. Thread: key not found for a deleted IBoutlet -> Delete the IBoutlet in the code of storyboard
+5. View added to storyboard doesn't show up -> constraints and aspect 1:1
+
+Unresolved Bugs:
+1. Can't return from web kit if screen orientation is changed
+2. Navigate to the NewColorViewController  

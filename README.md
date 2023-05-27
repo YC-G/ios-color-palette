@@ -1,5 +1,7 @@
 # ios-color-palette
 
+Technical skills: swift, API, JSON, MVC, unit test, integration test, view controller test, ui test
+
 Select colors by swipe cells left and light up the red hearts. Click the submit button to see the mixed color! 
 
 <img width="341" alt="Screenshot 2023-05-27 at 4 44 20 AM" src="https://github.com/YC-G/ios-color-palette/assets/38597041/72c9f774-5df9-4b4c-b21d-b4186ab66771">
